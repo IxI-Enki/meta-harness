@@ -24,6 +24,7 @@ We may add your repository, artifact, post, or paper to this README.
 - [Harness Forge](https://github.com/001TMF/harness-forge): Reimplements Meta-Harness as a native Claude Code skill.
 - [meta-harness-on-islo](https://github.com/zozo123/meta-harness-on-islo): Applies the optimization loop to Islo sandboxes.
 - [VideoHarness-RSI](https://github.com/Tencent/VideoHarness-RSI): Applies Meta-Harness to long-video retrieval and context construction around frozen vision-language models.
+- [AutoRef](https://github.com/KuOnoda/AutoRef): Applies Meta-Harness to multi-reference image generation.
 
 ## Quick Start
 

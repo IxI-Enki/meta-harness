@@ -8,6 +8,7 @@ Do not implement the system or run evaluations during onboarding.
 
 Read the [paper](https://arxiv.org/abs/2603.28052).
 If unavailable, use the repository documentation and identify what you could not verify.
+For a broader overview, see Lilian Weng’s [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/).
 Meta-Harness searches over executable code around a fixed base model.
 Use a strong coding agent as the optimizer.
 Give it filesystem access to all search artifacts, including prior candidate code, scores, and full execution traces.
